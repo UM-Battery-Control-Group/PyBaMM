@@ -5,7 +5,7 @@
 2. Install [python 3.9](https://www.python.org/downloads/release/python-3913/)
 3. Clone the git repo:
 ```
-git clone https://github.com/js1tr3/PyBaMM
+git clone https://github.com/UM-Battery-Control-Group/PyBaMM
 ```
 4. Follow install from source instruction from PyBaMM documentation to install our custom fork of PyBaMM
 https://docs.pybamm.org/en/latest/source/user_guide/installation/install-from-source.html
